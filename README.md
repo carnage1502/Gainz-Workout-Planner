@@ -1,3 +1,8 @@
+#GAINZ! Workout planner app helps in creating workouts.This app is created with reactjs and tailwindcss via vite
+Live url:- (https://gainz-workout-planner.vercel.app/)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
