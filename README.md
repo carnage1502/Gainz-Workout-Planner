@@ -1,5 +1,5 @@
-#GAINZ! Workout planner app helps in creating workouts.This app is created with reactjs and tailwindcss via vite
-Live url:- (https://gainz-workout-planner.vercel.app/)
+#GAINZ! Workout planner app helps in creating workouts.This app is created with reactjs and tailwindcss via vite.
+#Live url:- (https://gainz-workout-planner.vercel.app/)
 
 
 
